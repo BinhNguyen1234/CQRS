@@ -45,3 +45,4 @@ E:\CQRS\CQRS\obj\Debug\net8.0\refint\CQRS.dll
 E:\CQRS\CQRS\obj\Debug\net8.0\CQRS.pdb
 E:\CQRS\CQRS\obj\Debug\net8.0\CQRS.genruntimeconfig.cache
 E:\CQRS\CQRS\obj\Debug\net8.0\ref\CQRS.dll
+E:\CQRS\CQRS\obj\Debug\net8.0\CQRS.sourcelink.json

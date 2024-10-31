@@ -42,15 +42,18 @@ namespace CQRS
             app.UseAuthentication();
             app.UseAuthorization();
 
-            app.Map("/api", configuration =>
-            {
-                configuration.UseRouting();
-                configuration.UseAuthorization();
-                configuration.UseEndpoints(endpoints =>
-                {
-                    endpoints.MapControllers();
-                });
-            });
+            //app.Map("/api", configuration =>
+            //{
+            //    configuration.UseRouting();
+            //    configuration.UseAuthorization();
+            //    configuration.UseEndpoints(endpoints =>
+            //    {
+            //        endpoints.MapControllers();
+            //    });
+            //});
+
+            app.MapControllers();
+
             app.Run();
         }
     }

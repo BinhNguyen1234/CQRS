@@ -8,5 +8,21 @@
     "Order": 0,
     "Parameters": [],
     "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CQRS.Controllers.Auth",
+    "Method": "Post",
+    "RelativePath": "auth/post",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "data",
+        "Type": "CQRS.Controllers.postParams",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
   }
 ]
