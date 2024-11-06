@@ -1,0 +1,12 @@
+E:\twillioIntergratedApp\Domain\bin\Debug\net8.0\Domain.deps.json
+E:\twillioIntergratedApp\Domain\bin\Debug\net8.0\Domain.dll
+E:\twillioIntergratedApp\Domain\bin\Debug\net8.0\Domain.pdb
+E:\twillioIntergratedApp\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\twillioIntergratedApp\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+E:\twillioIntergratedApp\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+E:\twillioIntergratedApp\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+E:\twillioIntergratedApp\Domain\obj\Debug\net8.0\Domain.sourcelink.json
+E:\twillioIntergratedApp\Domain\obj\Debug\net8.0\Domain.dll
+E:\twillioIntergratedApp\Domain\obj\Debug\net8.0\refint\Domain.dll
+E:\twillioIntergratedApp\Domain\obj\Debug\net8.0\Domain.pdb
+E:\twillioIntergratedApp\Domain\obj\Debug\net8.0\ref\Domain.dll

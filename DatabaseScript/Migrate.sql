@@ -1,0 +1,1 @@
+ALTER TABLE appuser RENAME TO app_user;
