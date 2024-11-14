@@ -17,6 +17,12 @@ namespace ApiService.Controllers
         }
 
         [HttpGet]
+        public async Task<> TestSms()
+        {
+
+        }
+
+        [HttpGet]
         public async Task<IActionResult> Info()
         {
             return await Task.FromResult(Ok("Ok"));
@@ -26,7 +32,8 @@ namespace ApiService.Controllers
         public async Task<IActionResult> Register()
         {
             return await Task.FromResult(Ok("Ok"));
-        }
+        } 
+
 
         [HttpPost]
         public async Task<IActionResult> Login([FromBody]postParams data)
